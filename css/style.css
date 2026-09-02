@@ -1,0 +1,6 @@
+.slide {
+display: flex;
+gap: 0.5rem;
+font-size: 2rem;
+margin-top: 1rem;
+}
